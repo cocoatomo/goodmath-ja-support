@@ -7,6 +7,8 @@
 正誤表・既出の指摘事項
 ----------------------
 
+正誤表および既出の指摘事項はErrataページに記載してあります。
+
 https://github.com/cocoatomo/goodmath-ja-support/wiki/Errata
 
 グッド・マスへの指摘方法
